@@ -1,0 +1,9 @@
+{
+  "name": "archcord",
+  "version": "0.0.0",
+  "description": "archcord",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
